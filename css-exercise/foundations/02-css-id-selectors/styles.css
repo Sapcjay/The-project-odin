@@ -1,0 +1,22 @@
+/* styles.css */
+
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, DeJavu sans, sans-serif;
+}
+
+#even {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.oddthree {
+    font-size: 24px;
+}
+
+#evenfour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
